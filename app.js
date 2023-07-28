@@ -1,5 +1,5 @@
 const labels = document.querySelectorAll('.label'),
-      labelHeaders = document.querySelectorAll('h3');
+      labelHeaders = document.querySelectorAll('h2');
 
 labels.forEach((label, index)=>{
   label.addEventListener('click', ()=>{
