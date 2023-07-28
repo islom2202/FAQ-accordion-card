@@ -174,7 +174,9 @@ position: relative;
   }
 }
 h1{
-  font-size: 40px;
+  font-size: 35px;
+  text-align: start;
+  padding-left: 30px;
 }
 .FQA-section{
   width: 50%;
